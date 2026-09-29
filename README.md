@@ -13,7 +13,7 @@ I'm a **Lead AI Engineer** based in Berlin. I work on production AI architecture
 | [agent-claimcheck](https://github.com/B0yko/agent-claimcheck) | Checks agent success claims against tool receipts and state evidence. Includes calibrated decisions, a review queue, and a [labelled synthetic benchmark on Hugging Face](https://huggingface.co/datasets/me2pyy/claimcheck-bench). |
 | [Tern](https://github.com/B0yko/tern) | Local multimodal search for video and podcast archives on Apple Silicon, combining speech, on-screen text, and visual retrieval. |
 | [local-enough](https://github.com/B0yko/local-enough) | Measures local and cloud models on business tasks: quality, latency, cost, and routing decisions against explicit quality thresholds. |
-| [wellbrief](https://github.com/B0yko/wellbrief) | Offline retrieval for drilling reports, with verified source quotations, traceable calculations, and risk briefs for engineering review. |
+| [booking-truth](https://github.com/B0yko/booking-truth) | Tests AI booking agents on the calendar state they leave behind, with fault injection, pass^k, and false-success rates. Ships a guarded Cal.com, Google Calendar, and HubSpot booking agent. |
 
 These are personal projects. Each repository documents its implementation, evaluation, and current limitations. Tern is source-visible under an all-rights-reserved licence; the other projects above use Apache-2.0.
 
