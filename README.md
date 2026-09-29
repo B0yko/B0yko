@@ -12,7 +12,7 @@ The problems I enjoy most aren't fully defined.
 | --- | --- |
 | [pgwarden](https://github.com/B0yko/pgwarden) | An MCP gateway for Postgres with per-person database permissions, PII masking, human-approved writes, and auditable queries. |
 | [taskdistill](https://github.com/B0yko/taskdistill) | Distils recurring LLM tasks into small local models with LoRA and MLX, held-out evaluation, and selective escalation to the original API. |
-| [agent-claimcheck](https://github.com/B0yko/agent-claimcheck) | Checks agent success claims against tool receipts and state evidence. Includes calibrated decisions, a review queue, and a labelled synthetic benchmark. |
+| [agent-claimcheck](https://github.com/B0yko/agent-claimcheck) | Checks agent success claims against tool receipts and state evidence. Includes calibrated decisions, a review queue, and a [labelled synthetic benchmark on Hugging Face](https://huggingface.co/datasets/me2pyy/claimcheck-bench). |
 | [Tern](https://github.com/B0yko/tern) | Local multimodal search for video and podcast archives on Apple Silicon, combining speech, on-screen text, and visual retrieval. |
 | [local-enough](https://github.com/B0yko/local-enough) | Measures local and cloud models on business tasks: quality, latency, cost, and routing decisions against explicit quality thresholds. |
 | [wellbrief](https://github.com/B0yko/wellbrief) | Offline retrieval for drilling reports, with verified source quotations, traceable calculations, and risk briefs for engineering review. |
