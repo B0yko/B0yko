@@ -1,8 +1,6 @@
 # Hi, I'm Andrii Boiko.
 
-I'm a **Lead AI Engineer** based in Berlin. I work on production AI architecture, agents, retrieval, and evaluation, and lead AI engineering at Immigrant Invest.
-
-The problems I enjoy most aren't fully defined.
+I'm a **Lead AI Engineer** based in Berlin. I work on production AI architecture, agents, retrieval, and evaluation.
 
 [Case studies & personal projects](https://boiko.ai/work/) · [LinkedIn](https://www.linkedin.com/in/andriyboyko/) · [Hugging Face](https://huggingface.co/me2pyy) · [Email](mailto:andrewvboyko@gmail.com)
 
