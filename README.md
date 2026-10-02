@@ -2,7 +2,7 @@
 
 I'm a **Lead AI Engineer** based in Berlin. I work on production AI architecture, agents, retrieval, and evaluation.
 
-[Case studies & personal projects](https://boiko.ai/work/) · [LinkedIn](https://www.linkedin.com/in/andriyboyko/) · [Hugging Face](https://huggingface.co/me2pyy) · [Email](mailto:andrewvboyko@gmail.com)
+[Case studies & personal projects](https://boiko.ai/work/) · [LinkedIn](https://www.linkedin.com/in/andriyboyko/) · [Hugging Face](https://huggingface.co/aboiko) · [Email](mailto:andrewvboyko@gmail.com)
 
 ## Selected projects
 
@@ -10,7 +10,7 @@ I'm a **Lead AI Engineer** based in Berlin. I work on production AI architecture
 | --- | --- |
 | [pgwarden](https://github.com/B0yko/pgwarden) | An MCP gateway for Postgres with per-person database permissions, PII masking, human-approved writes, and auditable queries. |
 | [taskdistill](https://github.com/B0yko/taskdistill) | Distils recurring LLM tasks into small local models with LoRA and MLX, held-out evaluation, and selective escalation to the original API. |
-| [agent-claimcheck](https://github.com/B0yko/agent-claimcheck) | Checks agent success claims against tool receipts and state evidence. Includes calibrated decisions, a review queue, and a [labelled synthetic benchmark on Hugging Face](https://huggingface.co/datasets/me2pyy/claimcheck-bench). |
+| [agent-claimcheck](https://github.com/B0yko/agent-claimcheck) | Checks agent success claims against tool receipts and state evidence. Includes calibrated decisions, a review queue, and a [labelled synthetic benchmark on Hugging Face](https://huggingface.co/datasets/aboiko/claimcheck-bench). |
 | [Tern](https://github.com/B0yko/tern) | Local multimodal search for video and podcast archives on Apple Silicon, combining speech, on-screen text, and visual retrieval. |
 | [local-enough](https://github.com/B0yko/local-enough) | Measures local and cloud models on business tasks: quality, latency, cost, and routing decisions against explicit quality thresholds. |
 | [booking-truth](https://github.com/B0yko/booking-truth) | Tests AI booking agents on the calendar state they leave behind, with fault injection, pass^k, and false-success rates. Ships a guarded Cal.com, Google Calendar, and HubSpot booking agent. |
