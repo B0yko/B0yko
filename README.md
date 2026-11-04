@@ -28,7 +28,7 @@ Python · TypeScript · FastAPI · LangGraph · LangChain · PostgreSQL / pgvect
 ## Selected open-source contributions
 
 - **[vLLM Semantic Router](https://github.com/vllm-project/semantic-router/pull/5373#issuecomment-6424806576)** · Technical review  
-  Flagged duplicate score IDs that could silently change routing-evaluation results. The PR author [acknowledged the finding and added validation and regression tests](https://github.com/vllm-project/semantic-router/pull/5373#issuecomment-6518821351).
+  Flagged duplicate score IDs that could silently change routing-evaluation results. The PR author [acknowledged the finding and added validation and regression tests](https://github.com/vllm-project/semantic-router/pull/5373#issuecomment-6518821351). The changes were [merged into main](https://github.com/vllm-project/semantic-router/pull/5373) on 3 November 2026.
 
 - **[Inspect Scout](https://github.com/meridianlabs-ai/inspect_scout/pull/751)** · Code contribution · Draft PR  
   Proposed incremental checkpointing to preserve completed loader results after interruption, with regression coverage for recovery and retries.
