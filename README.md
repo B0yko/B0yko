@@ -1,34 +1,18 @@
-# Hi, I'm Andrii Boiko.
+# When an agent says it’s done
 
-I'm a **Lead AI Engineer** based in Berlin. I work on production AI architecture, agents, retrieval, and evaluation.
+I lead an AI engineering team in Berlin. We build agents that people rely on at work. In my research, I look at what you can verify when all an agent gives you is its account of what happened.
 
-[Case studies & personal projects](https://boiko.ai/work/) · [LinkedIn](https://www.linkedin.com/in/andriyboyko/) · [Hugging Face](https://huggingface.co/aboiko) · [Email](mailto:andrewvboyko@gmail.com)
+## Selected work
 
-## Selected projects
+**[AI Reliability Layer](https://boiko.ai/work/ai-reliability-layer/)**<br>
+I built a shared system that spots failures across our production agents and recovers failed runs.
 
-| Project | What it does |
-| --- | --- |
-| [pgwarden](https://github.com/B0yko/pgwarden) | An MCP gateway for Postgres with per-person database permissions, PII masking, human-approved writes, and auditable queries. |
-| [taskdistill](https://github.com/B0yko/taskdistill) | Distils recurring LLM tasks into small local models with LoRA and MLX, held-out evaluation, and selective escalation to the original API. |
-| [agent-claimcheck](https://github.com/B0yko/agent-claimcheck) | Checks agent success claims against tool receipts and state evidence. Includes calibrated decisions, a review queue, and a [labelled synthetic benchmark on Hugging Face](https://huggingface.co/datasets/aboiko/claimcheck-bench). |
-| [Tern](https://github.com/B0yko/tern) | Local multimodal search for video and podcast archives on Apple Silicon, combining speech, on-screen text, and visual retrieval. |
-| [local-enough](https://github.com/B0yko/local-enough) | Measures local and cloud models on business tasks: quality, latency, cost, and routing decisions against explicit quality thresholds. |
-| [booking-truth](https://github.com/B0yko/booking-truth) | Tests AI booking agents on the calendar state they leave behind, with fault injection, pass^k, and false-success rates. Ships a guarded Cal.com, Google Calendar, and HubSpot booking agent. |
+**[Agent Cheat Index](https://b0yko.github.io/cheat-index/)**<br>
+Did the agent fix the code or change the test? Compare 10 coding-agent setups across 1,162 runs.
 
-These are personal projects. Each repository documents its implementation, evaluation, and current limitations. Tern is source-visible under an all-rights-reserved licence; the other projects above use Apache-2.0.
+**[Receipts, Not Transcripts](https://boiko.ai/work/receipts-not-transcripts/)**<br>
+In a team study, we compared agents’ logs with the server record. Their logs left out 573 of 8,211 operations.
 
-## Production work
+---
 
-My [case studies](https://boiko.ai/work/) explain the architecture and engineering decisions behind that work.
-
-## Tools I work with
-
-Python · TypeScript · FastAPI · LangGraph · LangChain · PostgreSQL / pgvector · MCP · Docker
-
-## Selected open-source contributions
-
-- **[vLLM Semantic Router](https://github.com/vllm-project/semantic-router/pull/5373#issuecomment-6424806576)** · Technical review  
-  Flagged duplicate score IDs that could silently change routing-evaluation results. The PR author [acknowledged the finding and added validation and regression tests](https://github.com/vllm-project/semantic-router/pull/5373#issuecomment-6518821351). The changes were [merged into main](https://github.com/vllm-project/semantic-router/pull/5373) on 3 November 2026.
-
-- **[Inspect Scout](https://github.com/meridianlabs-ai/inspect_scout/pull/751)** · Code contribution · Draft PR  
-  Proposed incremental checkpointing to preserve completed loader results after interruption, with regression coverage for recovery and retries.
+Code review: [vLLM Semantic Router](https://github.com/vllm-project/semantic-router/pull/5373#issuecomment-6518821351). I flagged duplicate score IDs; the author added validation and regression tests.
