@@ -1,4 +1,4 @@
-# When an agent says it’s done
+# Hi, I'm Andrii Boiko
 
 I lead an AI engineering team in Berlin. We build agents that people rely on at work. In my research, I look at what you can verify when all an agent gives you is its account of what happened.
 
