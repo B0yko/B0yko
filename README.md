@@ -5,13 +5,13 @@ I lead an AI engineering team in Berlin. We build agents that people rely on at 
 ## Selected work
 
 **[AI Reliability Layer](https://boiko.ai/work/ai-reliability-layer/)**<br>
-I built a shared system that spots failures across our production agents and recovers failed runs.
+I built the system that lets two engineers easily maintain 100+ production agents at 500,000+ runs a month and quickly ship new ones.
 
 **[Agent Cheat Index](https://b0yko.github.io/cheat-index/)**<br>
-Did the agent fix the code or change the test? Compare 10 coding-agent setups across 1,162 runs.
+Will an agent cheat when the task can't be done honestly? Sonnet 5.5 did in 1% of runs, Qwen3 Coder in 72%.
 
 **[Receipts, Not Transcripts](https://boiko.ai/work/receipts-not-transcripts/)**<br>
-In a team study, we compared agents’ logs with the server record. Their logs left out 573 of 8,211 operations.
+We simulated the Hugging Face incident for Track 4 of the Swarm Alignment hackathon. Agents left 7% of board operations out of their own logs. Only an unlogged read of another agent's note catches them.
 
 ---
 
