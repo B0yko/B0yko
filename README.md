@@ -16,3 +16,5 @@ We simulated the Hugging Face incident for Track 4 of the Swarm Alignment hackat
 ---
 
 Code review: [vLLM Semantic Router](https://github.com/vllm-project/semantic-router/pull/5373#issuecomment-6518821351). I flagged duplicate score IDs; the author added validation and regression tests.
+
+[boiko.ai](https://boiko.ai) · [LinkedIn](https://www.linkedin.com/in/andriyboyko) · [Hugging Face](https://huggingface.co/aboiko)
